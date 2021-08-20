@@ -1,3 +1,3 @@
 local arit = require("arithmetic")
-local foo = {23,21,34,9,10,8,27,16}
-print( arit.mean( foo ) )
+local foo = {1,1,1,2,2,3,3,3,3,4,5,5,5,5,5}
+print( unpack(arit.mode( foo )) )
