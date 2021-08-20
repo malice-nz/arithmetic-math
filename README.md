@@ -5,7 +5,7 @@
 ## Table Of Contents
 | Table Of Contents      |
 | ----------- | 
-| Clamp[^clamp]       |
+| [^clamp]Clamp      |
 | Mean[^mean]   | 
 | Range[^range]   | 
 | Factor[^factor]  | 
@@ -33,13 +33,13 @@ local foo = {24,54,12,87,34,99,32,55}
 print( arit.range( foo ) ) -- Returns 87
 ```
 ## .factor
-**Factorial** is the product of a integer and all integers below it
+[^factor]**Factorial** is the product of a integer and all integers below it
 ```lua
 local arit = require("arithmetic")
 print( arit.factor(4) ) -- Returns 24
 ```
 ## .mode
-**Mode** is the value that appears most in a array
+[^mode]**Mode** is the value that appears most in a array
 > Always use unpack() to get the mode data
 
 ```lua
