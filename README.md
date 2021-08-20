@@ -3,13 +3,7 @@
 
 ![Arithmetic](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/500px-Lua-Logo.svg.png)
 ## Table Of Contents
-| Table Of Contents      |
-| ----------- | 
-| [^clamp]Clamp      |
-| Mean[^mean]   | 
-| Range[^range]   | 
-| Factor[^factor]  | 
-| Mode[^mode]   | 
+Clamp[^clamp]
 - - - 
 
  ## .clamp
