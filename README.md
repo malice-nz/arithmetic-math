@@ -2,8 +2,6 @@
 `by max`
 
 ![Arithmetic](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/100px-Lua-Logo.svg.png)
-## Table Of Contents
-
 - - - 
 
  ## .clamp
